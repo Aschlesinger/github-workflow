@@ -53,3 +53,5 @@ compiler.xml
 profiles_settings.xml
 
 vcs.xml
+
+.DS_Store
